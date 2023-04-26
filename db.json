@@ -1,0 +1,139 @@
+{
+    "pantaloons_home_dealsofday":[
+        {
+            "id":"1",
+            "image1":"https://imagescdn.pantaloons.com/img/app/product/6/636425-6695382.jpg",
+            "brand":"URBAN RANGER",
+            "name":"Olive Shirt",
+            "price":"649",
+            "mrp":"999"
+        },
+        {
+            "id":"2",
+            "image1":"https://imagescdn.pantaloons.com/img/app/product/6/640367-6387135.jpg",
+            "brand":"URBAN RANGER",
+            "name":"Olive Patterned T-shirt",
+            "price":"449",
+            "mrp":"599"
+        },
+        {
+            "id":"3",
+            "image1":"https://imagescdn.pantaloons.com/img/app/product/8/870579-10356466.jpg",
+            "brand":"BYFORD",
+            "name":"Olive Shirt",
+            "price":"944",
+            "mrp":"1049"
+        },
+        {
+            "id":"4",
+            "image1":"https://imagescdn.pantaloons.com/img/app/product/8/813586-9704882.jpg",
+            "brand":"UCB",
+            "name":"Olive Shirt",
+            "price":"2549",
+            "mrp":"2999"
+        }
+    ],
+    "pantaloons_home_stylesofseason":[
+        {
+            "id":"5",
+            "image1":"https://imagescdn.pantaloons.com/img/app/product/6/623753-6128169.jpg",
+            "brand":"INDUS ROUTE",
+            "name":"Pastel Pink Waistcoat",
+            "price":"749",
+            "mrp":"1499"
+        },
+        {
+            "id":"6",
+            "image1":"https://imagescdn.pantaloons.com/img/app/product/6/621522-6353475.jpg",
+            "brand":"INDUS ROUTE",
+            "name":"Golden Waistcoat",
+            "price":"749",
+            "mrp":"1499"
+        },
+        {
+            "id":"7",
+            "image1":"https://imagescdn.pantaloons.com/img/app/product/6/621521-6353468.jpg",
+            "brand":"INDUS ROUTE",
+            "name":"Golden Waistcoat",
+            "price":"749",
+            "mrp":"1499"
+        },
+        {
+            "id":"8",
+            "image1":"https://imagescdn.pantaloons.com/img/app/product/6/621520-6188520.jpg",
+            "brand":"INDUS ROUTE",
+            "name":"Beige Waistcoat",
+            "price":"1049",
+            "mrp":"2000"
+        }
+    ],
+    "pantaloon_home_recommendedgoryou":[
+        {
+            "id":"9",
+            "image1":"https://imagescdn.pantaloons.com/img/app/product/7/702359-7594525.jpg",
+            "brand":"URBAN RANGER",
+            "name":"Olive Shirt",
+            "price":"1099",
+            "mrp":"1499"
+        },
+        {
+            "id":"10",
+            "image1":"https://imagescdn.pantaloons.com/img/app/product/8/804237-9526560.jpg",
+            "brand":"UCB",
+            "name":"Black Shirt",
+            "price":"899",
+            "mrp":"1499"
+        },
+        {
+            "id":"11",
+            "image1":"https://imagescdn.pantaloons.com/img/app/product/7/794827-10311324.jpg",
+            "brand":"YU",
+            "name":"Medium Grey Shirt",
+            "price":"899",
+            "mrp":"1499"
+        },
+        {
+            "id":"12",
+            "image1":"https://imagescdn.pantaloons.com/img/app/product/6/638060-6696677.jpg",
+            "brand":"BYFORD",
+            "name":"Dark Olive Shirt",
+            "price":"629",
+            "mrp":"899"
+        }
+    ],
+    "pantaloons_home_trendingnow":[
+        {
+            "id":"13",
+            "image1":"https://imagescdn.pantaloons.com/img/app/product/7/730762-8125949.jpg",
+            "brand":"RANGMANCH",
+            "name":"White Regular Kurta",
+            "price":"1104",
+            "mrp":"1699"
+        },
+        {
+            "id":"14",
+            "image1":"https://imagescdn.pantaloons.com/img/app/product/8/870039-10347509.jpg",
+            "brand":"ANABELLE",
+            "name":"Blue Top",
+            "price":"1000",
+            "mrp":"1500"
+        },
+        {
+            "id":"15",
+            "image1":"https://imagescdn.pantaloons.com/img/app/product/7/732893-8162395.jpg",
+            "brand":"FOREVER GLAM",
+            "name":"White Sneaker",
+            "price":"1234",
+            "mrp":"1899"
+        },
+        {
+            "id":"16",
+            "image1":"https://imagescdn.pantaloons.com/img/app/product/7/753719-8549483.jpg",
+            "brand":"PANTALOONS JUNIOR",
+            "name":"Navy Shorts",
+            "price":"599",
+            "mrp":"699"
+        }
+    ]
+    
+}
