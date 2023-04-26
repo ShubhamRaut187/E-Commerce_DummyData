@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ShubhamRaut187/E-Commerce_DummyData/issues"
   },
-  "homepage": "https://github.com/ShubhamRaut187/E-Commerce_DummyData#readme"
+  "homepage": "https://github.com/ShubhamRaut187/E-Commerce_DummyData#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
 }
