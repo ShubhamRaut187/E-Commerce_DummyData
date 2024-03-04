@@ -134,6 +134,235 @@
             "price":"599",
             "mrp":"699"
         }
+    ],
+    "face":[
+        {
+            "Name":"Mahodaya Kannauj Rose Organic Lip Butter - Pink",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kushuma35mlPaint.png?raw=true",
+            "Price":"980"
+        },
+        {
+            "Name":"Indus Valley Kumkumadi Beauty Concentrate - For All Skin Types",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Mahodaya%20Rose%20Paint.png?raw=true",
+            "Price":"3000"
+        },
+        {
+            "Name":"Himalayan Kusuma Oil Hydrating Anti-Ageing Vit-C Face Serum",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kumkumadi.png?raw=true",
+            "Price":"1000"
+        },
+        {
+            "Name":"Mahodaya Kannauj Rose Organic Lip Butter - Pink",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kushuma35mlPaint.png?raw=true",
+            "Price":"980"
+        },
+        {
+            "Name":"Indus Valley Kumkumadi Beauty Concentrate - For All Skin Types",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Mahodaya%20Rose%20Paint.png?raw=true",
+            "Price":"3000"
+        },
+        {
+            "Name":"Himalayan Kusuma Oil Hydrating Anti-Ageing Vit-C Face Serum",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kumkumadi.png?raw=true",
+            "Price":"1000"
+        },
+        {
+            "Name":"Mahodaya Kannauj Rose Organic Lip Butter - Pink",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kushuma35mlPaint.png?raw=true",
+            "Price":"980"
+        },
+        {
+            "Name":"Indus Valley Kumkumadi Beauty Concentrate - For All Skin Types",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Mahodaya%20Rose%20Paint.png?raw=true",
+            "Price":"3000"
+        },
+        {
+            "Name":"Himalayan Kusuma Oil Hydrating Anti-Ageing Vit-C Face Serum",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kumkumadi.png?raw=true",
+            "Price":"1000"
+        },
+        {
+            "Name":"Mahodaya Kannauj Rose Organic Lip Butter - Pink",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kushuma35mlPaint.png?raw=true",
+            "Price":"980"
+        },
+        {
+            "Name":"Indus Valley Kumkumadi Beauty Concentrate - For All Skin Types",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Mahodaya%20Rose%20Paint.png?raw=true",
+            "Price":"3000"
+        },
+        {
+            "Name":"Himalayan Kusuma Oil Hydrating Anti-Ageing Vit-C Face Serum",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kumkumadi.png?raw=true",
+            "Price":"1000"
+        }
+
+    ],
+    "hair":[
+        {
+            "Name":"Indus Valley Kumkumadi Beauty Concentrate - For All Skin Types",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Mahodaya%20Rose%20Paint.png?raw=true",
+            "Price":"3000"
+        },
+        {
+            "Name":"Himalayan Kusuma Oil Hydrating Anti-Ageing Vit-C Face Serum",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kumkumadi.png?raw=true",
+            "Price":"1000"
+        },
+        {
+            "Name":"Indus Valley Kumkumadi Beauty Concentrate - For All Skin Types",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Mahodaya%20Rose%20Paint.png?raw=true",
+            "Price":"3000"
+        },
+        {
+            "Name":"Himalayan Kusuma Oil Hydrating Anti-Ageing Vit-C Face Serum",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kumkumadi.png?raw=true",
+            "Price":"1000"
+        },
+        {
+            "Name":"Mahodaya Kannauj Rose Organic Lip Butter - Pink",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kushuma35mlPaint.png?raw=true",
+            "Price":"980"
+        },
+        {
+            "Name":"Mahodaya Kannauj Rose Organic Lip Butter - Pink",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kushuma35mlPaint.png?raw=true",
+            "Price":"980"
+        },
+        {
+            "Name":"Indus Valley Kumkumadi Beauty Concentrate - For All Skin Types",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Mahodaya%20Rose%20Paint.png?raw=true",
+            "Price":"3000"
+        },
+        {
+            "Name":"Himalayan Kusuma Oil Hydrating Anti-Ageing Vit-C Face Serum",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kumkumadi.png?raw=true",
+            "Price":"1000"
+        },
+        {
+            "Name":"Mahodaya Kannauj Rose Organic Lip Butter - Pink",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kushuma35mlPaint.png?raw=true",
+            "Price":"980"
+        },
+        {
+            "Name":"Indus Valley Kumkumadi Beauty Concentrate - For All Skin Types",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Mahodaya%20Rose%20Paint.png?raw=true",
+            "Price":"3000"
+        },
+        {
+            "Name":"Himalayan Kusuma Oil Hydrating Anti-Ageing Vit-C Face Serum",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kumkumadi.png?raw=true",
+            "Price":"1000"
+        },
+        {
+            "Name":"Mahodaya Kannauj Rose Organic Lip Butter - Pink",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kushuma35mlPaint.png?raw=true",
+            "Price":"980"
+        }
+    ],
+    "body":[
+        {
+            "Name":"Himalayan Kusuma Oil Hydrating Anti-Ageing Vit-C Face Serum",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kumkumadi.png?raw=true",
+            "Price":"1000"
+        },
+        {
+            "Name":"Indus Valley Kumkumadi Beauty Concentrate - For All Skin Types",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Mahodaya%20Rose%20Paint.png?raw=true",
+            "Price":"3000"
+        },
+        {
+            "Name":"Himalayan Kusuma Oil Hydrating Anti-Ageing Vit-C Face Serum",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kumkumadi.png?raw=true",
+            "Price":"1000"
+        },
+        {
+            "Name":"Himalayan Kusuma Oil Hydrating Anti-Ageing Vit-C Face Serum",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kumkumadi.png?raw=true",
+            "Price":"1000"
+        },
+        {
+            "Name":"Indus Valley Kumkumadi Beauty Concentrate - For All Skin Types",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Mahodaya%20Rose%20Paint.png?raw=true",
+            "Price":"3000"
+        },
+        {
+            "Name":"Himalayan Kusuma Oil Hydrating Anti-Ageing Vit-C Face Serum",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kumkumadi.png?raw=true",
+            "Price":"1000"
+        },
+        {
+            "Name":"Himalayan Kusuma Oil Hydrating Anti-Ageing Vit-C Face Serum",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kumkumadi.png?raw=true",
+            "Price":"1000"
+        },
+        {
+            "Name":"Indus Valley Kumkumadi Beauty Concentrate - For All Skin Types",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Mahodaya%20Rose%20Paint.png?raw=true",
+            "Price":"3000"
+        },
+        {
+            "Name":"Himalayan Kusuma Oil Hydrating Anti-Ageing Vit-C Face Serum",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kumkumadi.png?raw=true",
+            "Price":"1000"
+        },
+        {
+            "Name":"Himalayan Kusuma Oil Hydrating Anti-Ageing Vit-C Face Serum",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kumkumadi.png?raw=true",
+            "Price":"1000"
+        },
+        {
+            "Name":"Indus Valley Kumkumadi Beauty Concentrate - For All Skin Types",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Mahodaya%20Rose%20Paint.png?raw=true",
+            "Price":"3000"
+        },
+        {
+            "Name":"Himalayan Kusuma Oil Hydrating Anti-Ageing Vit-C Face Serum",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kumkumadi.png?raw=true",
+            "Price":"1000"
+        }
+    ],
+    "bestseller":[
+        {
+            "Name":"Mahodaya Kannauj Rose Organic Lip Butter - Pink",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kushuma35mlPaint.png?raw=true",
+            "Price":"980"
+        },
+        {
+            "Name":"Indus Valley Kumkumadi Beauty Concentrate - For All Skin Types",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Mahodaya%20Rose%20Paint.png?raw=true",
+            "Price":"3000"
+        },
+        {
+            "Name":"Himalayan Kusuma Oil Hydrating Anti-Ageing Vit-C Face Serum",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kumkumadi.png?raw=true",
+            "Price":"1000"
+        },
+        {
+            "Name":"Mahodaya Kannauj Rose Organic Lip Butter - Pink",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kushuma35mlPaint.png?raw=true",
+            "Price":"980"
+        },
+        {
+            "Name":"Mahodaya Kannauj Rose Organic Lip Butter - Pink",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kushuma35mlPaint.png?raw=true",
+            "Price":"980"
+        },
+        {
+            "Name":"Indus Valley Kumkumadi Beauty Concentrate - For All Skin Types",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Mahodaya%20Rose%20Paint.png?raw=true",
+            "Price":"3000"
+        },
+        {
+            "Name":"Himalayan Kusuma Oil Hydrating Anti-Ageing Vit-C Face Serum",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kumkumadi.png?raw=true",
+            "Price":"1000"
+        },
+        {
+            "Name":"Mahodaya Kannauj Rose Organic Lip Butter - Pink",
+            "Image":"https://github.com/ShubhamRaut187/global-tech/blob/main/src/Photos/Kushuma35mlPaint.png?raw=true",
+            "Price":"980"
+        }
     ]
     
 }
